@@ -1,2 +1,1 @@
-# NerdsOfNorway.github.io
-Nerds of the North
+The future home of nerds of the north
